@@ -1,0 +1,27 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Artem-WebDeveloper/learning-node-farm#readme",
+  "bugs": {
+    "url": "https://github.com/Artem-WebDeveloper/learning-node-farm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artem-WebDeveloper/learning-node-farm.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "slugify": "^1.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
